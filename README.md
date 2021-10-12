@@ -1,6 +1,6 @@
 # huerta_arduino
 
-                                                              INTELLIGEN GREENHOUSE
+                                                              INTELLIGENT GREENHOUSE
                                                            
                                                            
 Descripción del proyecto:
