@@ -1,6 +1,6 @@
 # huerta_arduino
 
-                                                                           INTELLIGEN GREENHOUSE
+                                                              INTELLIGEN GREENHOUSE
                                                            
                                                            
 Descripción del proyecto:
@@ -24,6 +24,7 @@ En este apartado se procederá a explicar el contenido el cual es la base para q
 
 Circuito:
 
+![image](https://user-images.githubusercontent.com/71275875/137014254-ca8048ca-2fd1-402b-abea-ccf4b6c1633b.png)
 
 
 Recursos:
@@ -56,7 +57,7 @@ Sensor de agua:
 ![image](https://user-images.githubusercontent.com/71275875/136999708-6f943ba2-9202-4cfb-9a36-46f1734d8b3d.png)
 
  
-El módulo sensor de humedad de suelo resulta ser otro módulo que utiliza la conductividad entre dos terminales para determinar ciertos parámetros relacionados a agua, líquidos y humedad.
+El módulo sensor de agua resulta ser otro módulo que utiliza la conductividad entre dos terminales para determinar ciertos parámetros relacionados a agua, líquidos y humedad.
 
 Buzzer:
 
@@ -65,7 +66,7 @@ Buzzer:
  Un buzzer pasivo o un altavoz son dispositivos que permiten convertir una señal eléctrica en una onda de sonido.
 
 
-Sensor Humedad de Suelo
+Sensor Humedad de Suelo:
 
 
  ![image](https://user-images.githubusercontent.com/71275875/137006028-8a60f294-3f07-4da4-9193-8d34cde876e7.png)
@@ -161,9 +162,13 @@ e. visualización de las lecturas y las variables creadas  a través de la conso
 
 Conclusiones: 
 
+El uso y aplicación adecuada de la tecnología en el campo generan una mayor productividad y eficiencia en el desarrollo de actividades manuales y que reducen la capacidad de producción masiva d, así misma mejora la economía.
 
+Usar herramientas como Arduino, el cual es un lenguaje de programación que se ha venido postulando como líder en su uso en el desarrollo de proyectos, logra de manera óptima comunicar el mundo físico con el digital.
 
+En cuanto al proyecto, se logra evidenciar que con un adecuado control de la temperatura, la humedad y otras diferentes variables en la producción, se logra que las plantas  crezcan de manera óptima y segura, reduciendo el riesgo de fallas durante todo el proceso y aumentado la productividad.
 
+Es importante conocer a fondo y detalladamente el proceso de producción de plantas, ya que, si se toman en cuenta factores como el clima, de acuerdo con el tipo de planta requerido se logra masificar la producción de manera acelerada en el crecimiento de las plantas, lo que a su vez conlleva a que los productores generen proceso optimizados y garantizados.
 
 
 
